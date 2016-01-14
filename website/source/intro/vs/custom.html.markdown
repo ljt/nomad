@@ -25,5 +25,5 @@ flexibility in the workloads it supports, including Docker.
 
 Nomad provides organizations of any size a solution for deployment
 that is simple, robust, and scalable. It reduces the time and effort spent
-re-inventing the wheel and users can focus instead on their business applications.
+re-inventing the wheel, allowing users to focus instead on their business applications.
 
